@@ -8,7 +8,7 @@ Agende sua mentoria de forma simples e rápida<br/>
 
 
 <p align="center">
-  <img alt="License" src="./imagens/capa.png">
+  <img alt="License" src="capa.png">
 </p>
 
 <br>
